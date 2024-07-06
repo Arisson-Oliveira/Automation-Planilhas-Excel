@@ -30,3 +30,9 @@ Este projeto utiliza a biblioteca PyAutoGUI para automatizar o processo de cadas
 
 ```bash
 python app.py
+
+### Clonar o Repositório
+
+```bash
+git clone https://github.com/Arisson-Oliveira/Automation-Planilhas-Excel.git
+cd Automation-Planilhas-Excel
