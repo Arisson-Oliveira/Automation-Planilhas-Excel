@@ -26,11 +26,6 @@ Este projeto utiliza a biblioteca PyAutoGUI para automatizar o processo de cadas
    | 001    | Marca A      | Tipo 1      | Categoria X   | 100.0          | 50.0  | Promo  |
    | 002    | Marca B      | Tipo 2      | Categoria Y   | 150.0          | 75.0  | NaN    |
 
-2. Execute o script:
-
-```bash
-python app.py
-
 ### Clonar o Repositório
 
 ```bash
