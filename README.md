@@ -29,4 +29,4 @@ Este projeto utiliza a biblioteca PyAutoGUI para automatizar o processo de cadas
 2. Execute o script:
 
 ```bash
-python automacao.py
+python app.py
